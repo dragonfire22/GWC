@@ -1,17 +1,24 @@
 h1 {
   text-align: center;
-  background-color: lightblue;
-  padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
+  color:#eca1a6; 
+  font-family: "Georgia", Serif;
+  background-color:#d5e1df;
 }
-h2 {
-  text-align: center;
+
+/*img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  background-color:#ada397;
 }
-h3 {
-  text-align: center;
-}
+*/
 p {
   text-align: center;
+  color:Indigo;
+  background-color:;
+}
+
+body {
+  background-color:;
 }
